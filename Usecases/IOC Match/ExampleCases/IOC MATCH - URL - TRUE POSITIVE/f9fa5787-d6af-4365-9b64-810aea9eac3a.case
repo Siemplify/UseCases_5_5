@@ -1,0 +1,49 @@
+{
+  "Cases": [
+    {
+      "Events": [
+        {
+          "_fields": {
+            "BaseEventIds": [],
+            "ParentEventId": 0,
+            "DeviceEventClassId": "IOC MATCH - URL - TRUE POSITIVE",
+            "StartTime": "1582053717825",
+            "EndTime": "1582053717825",
+            "DeviceProduct": "TIP"
+          },
+          "_rawDataFields": {
+            "Hostname": "PC0001",
+            "URL": "http://delezhen.mashalezhen.com/wp-includes/pomo/updatenow/files1/top.html",
+            "Alert_Message": "Connection to suspicious URL found",
+            "DeviceProduct": "TIP",
+            "Name": "IOC MATCH - URL - TRUE POSITIVE",
+            "DeviceEventClassId": "IOC MATCH - URL - TRUE POSITIVE"
+          },
+          "Environment": null,
+          "SourceSystemName": null
+        }
+      ],
+      "Environment": null,
+      "SourceSystemName": "Splunk",
+      "TicketId": null,
+      "Description": null,
+      "DisplayId": null,
+      "Reason": null,
+      "Name": "IOC MATCH - URL - TRUE POSITIVE",
+      "DeviceVendor": "TIP",
+      "DeviceProduct": "TIP",
+      "StartTime": 1582053717825,
+      "EndTime": 1582053717825,
+      "IsTestCase": false,
+      "Priority": 0,
+      "RuleGenerator": "IOC MATCH - URL - TRUE POSITIVE",
+      "SourceGroupingIdentifier": null,
+      "PlaybookTriggerKeywords": [],
+      "Extensions": [],
+      "Attachments": null
+    }
+  ],
+  "IsTestCase": false,
+  "DebugOutput": null,
+  "ConnectorIdentifier": null
+}

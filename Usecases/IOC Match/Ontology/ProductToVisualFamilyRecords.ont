@@ -1,0 +1,12 @@
+[
+  {
+    "Product": "TIP",
+    "EventName": "IOC MATCH - IP - TRUE POSITIVE",
+    "ComparisonType": 0,
+    "VisualFamily": "IPS",
+    "ForMigration": false,
+    "Id": 170,
+    "CreationTimeUnixTimeInMs": 1582049382573,
+    "ModificationTimeUnixTimeInMs": 1582049382573
+  }
+]

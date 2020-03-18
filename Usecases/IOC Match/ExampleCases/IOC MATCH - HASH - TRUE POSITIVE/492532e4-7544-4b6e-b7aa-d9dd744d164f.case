@@ -1,0 +1,49 @@
+{
+  "Cases": [
+    {
+      "Events": [
+        {
+          "_fields": {
+            "BaseEventIds": [],
+            "ParentEventId": 0,
+            "DeviceEventClassId": "IOC MATCH - HASH- TRUE POSITIVE",
+            "StartTime": "1582060168150",
+            "EndTime": "1582060168150",
+            "DeviceProduct": "TIP"
+          },
+          "_rawDataFields": {
+            "Hostname": "PC0001",
+            "Alert_Message": "Connection to suspicious IP ",
+            "DeviceProduct": "TIP",
+            "Name": "IOC MATCH - HASH - TRUE POSITIVE",
+            "FileHash": "15af5bbf3c8d5e5db41fd7c3d722e8b247b40f2da747d5c334f7fd80b715a649",
+            "DeviceEventClassId": "IOC MATCH - HASH - TRUE POSITIVE"
+          },
+          "Environment": null,
+          "SourceSystemName": null
+        }
+      ],
+      "Environment": null,
+      "SourceSystemName": "Splunk",
+      "TicketId": null,
+      "Description": null,
+      "DisplayId": null,
+      "Reason": null,
+      "Name": "IOC MATCH - HASH - TRUE POSITIVE",
+      "DeviceVendor": "TIP",
+      "DeviceProduct": "TIP",
+      "StartTime": 1582060168150,
+      "EndTime": 1582060168150,
+      "IsTestCase": false,
+      "Priority": 0,
+      "RuleGenerator": "IOC MATCH - HASH- TRUE POSITIVE",
+      "SourceGroupingIdentifier": null,
+      "PlaybookTriggerKeywords": [],
+      "Extensions": [],
+      "Attachments": null
+    }
+  ],
+  "IsTestCase": false,
+  "DebugOutput": null,
+  "ConnectorIdentifier": null
+}

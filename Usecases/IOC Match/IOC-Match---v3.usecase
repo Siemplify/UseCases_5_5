@@ -1,0 +1,61 @@
+{
+  "Identifier": "957b9450-9421-47de-8d2f-09d937d62f12",
+  "CreationTimeInUnixtime": "1582062481380",
+  "Order": 1,
+  "Name": "IOC Match Investigation",
+  "Description": "This use case adds multiple simulation alerts and a playbook that investigations multiple possible IOC matches.",
+  "VideoLink": null,
+  "UpdaterFullName": "Steven Goossens",
+  "UpdaterEmail": "steven@teamg.be",
+  "UpdaterImageBase64": null,
+  "Category": "IOC Match",
+  "Tags": [],
+  "CategorySvgImage": null,
+  "Playbooks": [
+    "IOC-Match"
+  ],
+  "CommercialIntegrations": [
+    {
+      "Identifier": "Siemplify",
+      "Version": 31.0
+    },
+    {
+      "Identifier": "FalconSandbox",
+      "Version": 3.0
+    },
+    {
+      "Identifier": "PassiveTotal",
+      "Version": 7.0
+    },
+    {
+      "Identifier": "VirusTotal",
+      "Version": 19.0
+    },
+    {
+      "Identifier": "UrlScanIo",
+      "Version": 5.0
+    }
+  ],
+  "Integrations": [
+    "Siemplify",
+    "FalconSandbox",
+    "PassiveTotal",
+    "VirusTotal",
+    "UrlScanIo"
+  ],
+  "Connectors": [],
+  "TestCases": [
+    {
+      "CaseTitle": "IOC MATCH - DOMAIN - FALSE POSITIVE"
+    },
+    {
+      "CaseTitle": "IOC MATCH - IP -  FALSE POSITIVE"
+    },
+    {
+      "CaseTitle": "IOC MATCH - HASH - TRUE POSITIVE"
+    },
+    {
+      "CaseTitle": "IOC MATCH - URL - TRUE POSITIVE"
+    }
+  ]
+}
