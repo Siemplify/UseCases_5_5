@@ -1,0 +1,12 @@
+[
+  {
+    "Product": "Mail",
+    "EventName": null,
+    "ComparisonType": 0,
+    "VisualFamily": "MailRelayOrTAP",
+    "ForMigration": false,
+    "Id": 164,
+    "CreationTimeUnixTimeInMs": 1580127150798,
+    "ModificationTimeUnixTimeInMs": 1580127150798
+  }
+]

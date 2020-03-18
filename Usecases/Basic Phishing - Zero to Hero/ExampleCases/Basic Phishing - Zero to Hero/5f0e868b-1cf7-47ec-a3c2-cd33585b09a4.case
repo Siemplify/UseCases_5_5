@@ -1,0 +1,56 @@
+{
+  "Cases": [
+    {
+      "Events": [
+        {
+          "_fields": {
+            "BaseEventIds": [],
+            "ParentEventId": 0,
+            "DeviceEventClassId": "Suspicious Email",
+            "StartTime": "1579936788161",
+            "EndTime": "1579936788161",
+            "DeviceProduct": "Mail"
+          },
+          "_rawDataFields": {
+            "from": "craig@textspeier.deo",
+            "to": "steven.b@siemplify.co",
+            "url_1": "https://textspeier.de",
+            "sourcetype": "Email",
+            "EventId": "220",
+            "Name": "Suspicious Email",
+            "Severity": "High",
+            "CategoryOutcome": "allowed",
+            "sentTime": "1522059431000",
+            "subject": "Your Dropbox file",
+            "body": "---------- Forwarded message ---------\\nFrom: Craig Nil <craig@textspeier.deo>\\nDate: Fri, Jan 24, 2020 at 7:50 AM\\nSubject: Your Dropbox file\\nTo: Steven Brown <steven.b@siemplify.co>\\n\\n\\n\\nHello,\\n\\nYou just received a file through Drobpox Share Application.\\nPlease click below and log in to view the file.\\n\\nhttps://textspeier.de \\n\\nEvery time a friend installs Drobpox, we'll give both of you 1 GB of\\nspace for free! Need even more space? Upgrade your Drobpox and get 1 TB\\n(1,000 GB) of space.\\n\\n\\nHappy Drobpoxing.\\n- The Drobpox Team\\n   Drobpox, Inc., PO Box 099889, San Francisco, CA 04107 2019 Drobpox",
+            "DeviceProduct": "Mail",
+            "DeviceEventClassId": "Suspicious Email"
+          },
+          "Environment": null,
+          "SourceSystemName": null
+        }
+      ],
+      "Environment": null,
+      "SourceSystemName": "EmailV2",
+      "TicketId": null,
+      "Description": null,
+      "DisplayId": null,
+      "Reason": null,
+      "Name": "Suspicious Email",
+      "DeviceVendor": "Phishing Email Box",
+      "DeviceProduct": "Mail",
+      "StartTime": 1579936788161,
+      "EndTime": 1579936788161,
+      "IsTestCase": false,
+      "Priority": 0,
+      "RuleGenerator": "Phishing Email Box",
+      "SourceGroupingIdentifier": null,
+      "PlaybookTriggerKeywords": [],
+      "Extensions": [],
+      "Attachments": null
+    }
+  ],
+  "IsTestCase": false,
+  "DebugOutput": null,
+  "ConnectorIdentifier": null
+}
