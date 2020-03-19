@@ -1,0 +1,48 @@
+{
+  "Cases": [
+    {
+      "Events": [
+        {
+          "_fields": {
+            "BaseEventIds": [],
+            "ParentEventId": 0,
+            "DeviceEventClassId": "Malicious Process Found - False Positive",
+            "StartTime": "1581538274206",
+            "EndTime": "1581538274206",
+            "DeviceProduct": "CarbonBlack"
+          },
+          "_rawDataFields": {
+            "File Name": "putty.exe",
+            "File Hash": "601cdbddfe6ac894daff506167c164c65446f893d1d5e4b95e92d960ff5f52b0",
+            "DeviceEventClassId": "Malicious Process Found - False Positive",
+            "DeviceProduct": "CarbonBlack",
+            "Name": "Malicious Process Found - False Positive"
+          },
+          "Environment": null,
+          "SourceSystemName": null
+        }
+      ],
+      "Environment": null,
+      "SourceSystemName": "Splunk",
+      "TicketId": null,
+      "Description": null,
+      "DisplayId": null,
+      "Reason": null,
+      "Name": "Malicious Process Found - False Positive",
+      "DeviceVendor": "CarbonBlack",
+      "DeviceProduct": "CarbonBlack",
+      "StartTime": 1581538274206,
+      "EndTime": 1581538274206,
+      "IsTestCase": false,
+      "Priority": 0,
+      "RuleGenerator": "Malicious Process Found - False Positive",
+      "SourceGroupingIdentifier": null,
+      "PlaybookTriggerKeywords": [],
+      "Extensions": [],
+      "Attachments": null
+    }
+  ],
+  "IsTestCase": false,
+  "DebugOutput": null,
+  "ConnectorIdentifier": null
+}

@@ -1,0 +1,51 @@
+{
+  "Cases": [
+    {
+      "Events": [
+        {
+          "_fields": {
+            "BaseEventIds": [],
+            "ParentEventId": 0,
+            "DeviceEventClassId": "Policy Violation - Executable in Downloads Folder",
+            "StartTime": "1582073356595",
+            "EndTime": "1582073356595",
+            "DeviceProduct": "Windows"
+          },
+          "_rawDataFields": {
+            "username": "mitchell.k",
+            "DeviceProduct": "Windows",
+            "Name": "Policy Violation - Executable in Downloads Folder (p-9881)",
+            "alert_action": "Executable execution not allowed",
+            "alert_message": "Executable executed in Downloads folder",
+            "policy_id": "p-9881",
+            "asset_class": "sensitive-1",
+            "DeviceEventClassId": "Policy Violation - Executable in Downloads Folder"
+          },
+          "Environment": null,
+          "SourceSystemName": null
+        }
+      ],
+      "Environment": null,
+      "SourceSystemName": "ElasticStack",
+      "TicketId": null,
+      "Description": null,
+      "DisplayId": null,
+      "Reason": null,
+      "Name": "Policy Violation - Executable in Downloads Folder",
+      "DeviceVendor": "Windows",
+      "DeviceProduct": "Windows",
+      "StartTime": 1582073356595,
+      "EndTime": 1582073356595,
+      "IsTestCase": false,
+      "Priority": 0,
+      "RuleGenerator": "Policy Violation - Executable in Downloads Folder",
+      "SourceGroupingIdentifier": null,
+      "PlaybookTriggerKeywords": [],
+      "Extensions": [],
+      "Attachments": null
+    }
+  ],
+  "IsTestCase": false,
+  "DebugOutput": null,
+  "ConnectorIdentifier": null
+}

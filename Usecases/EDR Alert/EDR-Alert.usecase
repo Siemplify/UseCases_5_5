@@ -1,0 +1,45 @@
+{
+  "Identifier": "555a9d5f-a641-4fad-b084-569ebe4aca61",
+  "CreationTimeInUnixtime": "1581587120757",
+  "Order": 1,
+  "Name": "EDR Alert",
+  "Description": "Basic playbook for handling an EDR alert detecting a potential malicious process. Requires configuring multiple cloud integrations.",
+  "VideoLink": null,
+  "UpdaterFullName": "Steven Goossens",
+  "UpdaterEmail": "steven@teamg.be",
+  "UpdaterImageBase64": null,
+  "Category": "EDR Alert",
+  "Tags": [],
+  "CategorySvgImage": null,
+  "Playbooks": [
+    "EDR-alert"
+  ],
+  "CommercialIntegrations": [
+    {
+      "Identifier": "VirusTotal",
+      "Version": 18.0
+    },
+    {
+      "Identifier": "Siemplify",
+      "Version": 31.0
+    },
+    {
+      "Identifier": "FalconSandbox",
+      "Version": 3.0
+    }
+  ],
+  "Integrations": [
+    "VirusTotal",
+    "Siemplify",
+    "FalconSandbox"
+  ],
+  "Connectors": [],
+  "TestCases": [
+    {
+      "CaseTitle": "Malicious Process Found - False Positive"
+    },
+    {
+      "CaseTitle": "Malicious Process Found - True positive"
+    }
+  ]
+}

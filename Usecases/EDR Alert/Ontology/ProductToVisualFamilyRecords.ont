@@ -1,0 +1,12 @@
+[
+  {
+    "Product": "CarbonBlack",
+    "EventName": null,
+    "ComparisonType": 0,
+    "VisualFamily": "EDR",
+    "ForMigration": false,
+    "Id": 88,
+    "CreationTimeUnixTimeInMs": 1581361488783,
+    "ModificationTimeUnixTimeInMs": 1581361488783
+  }
+]

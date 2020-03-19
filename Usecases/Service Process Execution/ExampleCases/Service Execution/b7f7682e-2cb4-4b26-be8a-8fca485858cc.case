@@ -1,0 +1,63 @@
+{
+  "Cases": [
+    {
+      "Events": [
+        {
+          "_fields": {
+            "BaseEventIds": [],
+            "ParentEventId": 0,
+            "DeviceEventClassId": "Service Execution",
+            "StartTime": "1581868263891",
+            "EndTime": "1581868263891",
+            "DeviceProduct": "Windows"
+          },
+          "_rawDataFields": {
+            "message": "A new process has been created",
+            "security_id": "SYSTEM",
+            "account_name": "miked",
+            "account_domain": "FINANCE",
+            "logon_id": "0x3E7",
+            "target_account": "FINANCE\\miked",
+            "process_id": "0x2e0e4",
+            "process_name": "explorer.exe",
+            "creating_process": "C:\\Windows\\System32\\svchost.exe",
+            "token_elevation_type": "%%1938",
+            "DeviceProduct": "Windows",
+            "Name": "Windows Security Log Event ID 4688",
+            "file_name": "C:\\Windows\\System32\\explorer.exe",
+            "file_hash": "05feed9762bc46b47a7dc5c469add9f163c16df4ddaafe81983a628da5714461",
+            "DeviceEventClassId": "Windows Security Log Event ID 4688"
+          },
+          "Environment": null,
+          "SourceSystemName": null
+        }
+      ],
+      "Environment": null,
+      "SourceSystemName": "Splunk",
+      "TicketId": null,
+      "Description": null,
+      "DisplayId": null,
+      "Reason": null,
+      "Name": "Service Execution",
+      "DeviceVendor": "Windows",
+      "DeviceProduct": "Windows",
+      "StartTime": 1581868263891,
+      "EndTime": 1581868263891,
+      "IsTestCase": false,
+      "Priority": 0,
+      "RuleGenerator": "Service Execution",
+      "SourceGroupingIdentifier": null,
+      "PlaybookTriggerKeywords": [],
+      "Extensions": [
+        {
+          "Key": "name",
+          "Value": "Service Execution"
+        }
+      ],
+      "Attachments": null
+    }
+  ],
+  "IsTestCase": false,
+  "DebugOutput": null,
+  "ConnectorIdentifier": null
+}

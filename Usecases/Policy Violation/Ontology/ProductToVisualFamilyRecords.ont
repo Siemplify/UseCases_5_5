@@ -1,0 +1,12 @@
+[
+  {
+    "Product": "Windows",
+    "EventName": "Policy violation - executable in Downloads folder",
+    "ComparisonType": 0,
+    "VisualFamily": "Default",
+    "ForMigration": false,
+    "Id": 164,
+    "CreationTimeUnixTimeInMs": 1582071456042,
+    "ModificationTimeUnixTimeInMs": 1582071456042
+  }
+]

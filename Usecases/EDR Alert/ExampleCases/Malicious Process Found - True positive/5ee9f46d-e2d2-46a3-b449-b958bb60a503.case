@@ -1,0 +1,49 @@
+{
+  "Cases": [
+    {
+      "Events": [
+        {
+          "_fields": {
+            "BaseEventIds": [],
+            "ParentEventId": 0,
+            "DeviceEventClassId": "Malicious Process Found - True positive",
+            "StartTime": "1581586808835",
+            "EndTime": "1581586808835",
+            "DeviceProduct": "CarbonBlack"
+          },
+          "_rawDataFields": {
+            "File name": "mimikatz.exe",
+            "DeviceProduct": "CarbonBlack",
+            "Name": "Malicious Process Found",
+            "file_hash": " 1e1d38e65a61996ccd72005cf3e4d1bb ",
+            "file_hash_1": "dc3982d49abe07d7c58f0f55816f8942faa02c459a8440d0d9331ca9d640c74b ",
+            "DeviceEventClassId": "Malicious Process Found - True positive"
+          },
+          "Environment": null,
+          "SourceSystemName": null
+        }
+      ],
+      "Environment": null,
+      "SourceSystemName": "Splunk",
+      "TicketId": null,
+      "Description": null,
+      "DisplayId": null,
+      "Reason": null,
+      "Name": "Malicious Process Found - True positive",
+      "DeviceVendor": "CarbonBlack",
+      "DeviceProduct": "CarbonBlack",
+      "StartTime": 1581586808835,
+      "EndTime": 1581586808835,
+      "IsTestCase": false,
+      "Priority": 0,
+      "RuleGenerator": "Malicious Process Found - True positive",
+      "SourceGroupingIdentifier": null,
+      "PlaybookTriggerKeywords": [],
+      "Extensions": [],
+      "Attachments": null
+    }
+  ],
+  "IsTestCase": false,
+  "DebugOutput": null,
+  "ConnectorIdentifier": null
+}

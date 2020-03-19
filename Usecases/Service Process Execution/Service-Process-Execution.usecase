@@ -1,0 +1,42 @@
+{
+  "Identifier": "08158455-8c1c-4638-9deb-75ffdeac759b",
+  "CreationTimeInUnixtime": "1581885183190",
+  "Order": 1,
+  "Name": "Service \\ Process Execution",
+  "Description": "Basic playbook for investigating a suspicious service \\ process execution on endpoint. Requires configuring multiple cloud integrations.\n",
+  "VideoLink": null,
+  "UpdaterFullName": "Jenya Shvetsov",
+  "UpdaterEmail": "jenya@siemplify.co",
+  "UpdaterImageBase64": null,
+  "Category": "Endpoint",
+  "Tags": [],
+  "CategorySvgImage": null,
+  "Playbooks": [
+    "Service-Execution"
+  ],
+  "CommercialIntegrations": [
+    {
+      "Identifier": "Siemplify",
+      "Version": 31.0
+    },
+    {
+      "Identifier": "MitreAttck",
+      "Version": 1.0
+    },
+    {
+      "Identifier": "VirusTotal",
+      "Version": 18.0
+    }
+  ],
+  "Integrations": [
+    "Siemplify",
+    "MitreAttck",
+    "VirusTotal"
+  ],
+  "Connectors": [],
+  "TestCases": [
+    {
+      "CaseTitle": "Service Execution"
+    }
+  ]
+}

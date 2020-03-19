@@ -1,0 +1,48 @@
+{
+  "Identifier": "f0d0fdc2-14a5-496c-9ce4-761ed6209ea4",
+  "CreationTimeInUnixtime": "1582074530896",
+  "Order": 1,
+  "Name": "Policy Violation",
+  "Description": "A multi-purpose playbook to handle policy violations and communication with the user and management.\nContains sample alerts for use case demonstration, a playbook and a reusable block.",
+  "VideoLink": null,
+  "UpdaterFullName": "Steven Goossens",
+  "UpdaterEmail": "steven@teamg.be",
+  "UpdaterImageBase64": null,
+  "Category": "Management",
+  "Tags": [],
+  "CategorySvgImage": null,
+  "Playbooks": [
+    "Policy-Violation",
+    "Communication-Block"
+  ],
+  "CommercialIntegrations": [
+    {
+      "Identifier": "Siemplify",
+      "Version": 31.0
+    },
+    {
+      "Identifier": "AzureActiveDirectory",
+      "Version": 1.0
+    },
+    {
+      "Identifier": "EmailV2",
+      "Version": 2.0
+    },
+    {
+      "Identifier": "Slack",
+      "Version": 9.0
+    }
+  ],
+  "Integrations": [
+    "Siemplify",
+    "AzureActiveDirectory",
+    "EmailV2",
+    "Slack"
+  ],
+  "Connectors": [],
+  "TestCases": [
+    {
+      "CaseTitle": "Policy Violation - Executable in Downloads Folder"
+    }
+  ]
+}

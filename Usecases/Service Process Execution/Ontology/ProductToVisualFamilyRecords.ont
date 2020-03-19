@@ -1,0 +1,12 @@
+[
+  {
+    "Product": "Windows",
+    "EventName": "Service Execution",
+    "ComparisonType": 0,
+    "VisualFamily": "AV",
+    "ForMigration": false,
+    "Id": 166,
+    "CreationTimeUnixTimeInMs": 1581858930648,
+    "ModificationTimeUnixTimeInMs": 1581858930648
+  }
+]
