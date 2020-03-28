@@ -3,7 +3,7 @@
   "CreationTimeInUnixtime": "1579937225849",
   "Order": 0,
   "Name": "Basic Phishing - Zero to Hero",
-  "Description": "This use case will help you run your first incident response process with Siemplify and get into the basics of customising a playbook.\n \n QuickStart Guides - https://www.manula.com/manuals/siemplify/quick-start-guide/5.3.0/en/topic/start-working-in-siemplify\n \nMalicious Email Sample - https://drive.google.com/file/d/1Ro5Mj4TAQDDiUkLQnsiqQWnCsqe8cOe1/view?usp=sharing \n\nNon-Malicious Email Sample - https://drive.google.com/file/d/1BGh2QrMxzN8Zg6x_6IuMxgMUBXPQEV6j/view?usp=sharing \n\n\n Music By: bensound",
+  "Description": "A Phishing use case automation using free online tools. The video will help you set everything up and get into the basics of customising a playbook.\n \n \n QuickStart Guides - https://www.manula.com/manuals/siemplify/quick-start-guide/5.3.0/en/topic/start-working-in-siemplify\n \nMalicious Email Sample - https://drive.google.com/file/d/1Ro5Mj4TAQDDiUkLQnsiqQWnCsqe8cOe1/view?usp=sharing \n\nNon-Malicious Email Sample - https://drive.google.com/file/d/1BGh2QrMxzN8Zg6x_6IuMxgMUBXPQEV6j/view?usp=sharing \n\n\n Music By: bensound",
   "VideoLink": "https://fast.wistia.net/embed/iframe/798meljv90?videoFoam=true",
   "UpdaterFullName": "Alon Cohen",
   "UpdaterEmail": "alon@siemplify.co",
