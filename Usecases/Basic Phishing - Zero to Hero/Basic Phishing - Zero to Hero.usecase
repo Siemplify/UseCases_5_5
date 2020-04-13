@@ -3,7 +3,7 @@ Description{
   "CreationTimeInUnixtime": "1579937225849",
   "Order": 0,
   "Name": "Basic Phishing - Zero to Hero",
-  "Description": "<p>Phishing use case automation with free online tools. The video will help you set everything up and get into the basics of customising a playbook. <a title=\"QuickStart Guides\" href=\"https://www.manula.com/manuals/siemplify/quick-start-guide/5.3.0/en/topic/start-working-in-siemplify\" target=\"_blank\" rel=\"noopener\">QuickStart Guides</a> <a title=\"Malicious Email Sample\" href=\"https://drive.google.com/file/d/1Ro5Mj4TAQDDiUkLQnsiqQWnCsqe8cOe1/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Malicious Email Sample</a>  <a title=\"nNon-Malicious Email Sample\" href=\"https://drive.google.com/file/d/1BGh2QrMxzN8Zg6x_6IuMxgMUBXPQEV6j/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">nNon-Malicious Email Sample</a> <br> <br> Music By: bensound<p>",
+  "Description": "Phishing use case automation with free online tools. The video will help you set everything up and get into the basics of customising a playbook. Music By: bensound",
   "VideoLink": "https://fast.wistia.net/embed/iframe/c7ph2dvv56?videoFoam=true",
   "UpdaterFullName": "Alon Cohen",
   "UpdaterEmail": "alon@siemplify.co",
